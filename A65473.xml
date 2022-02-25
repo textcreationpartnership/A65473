@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Damnable heresie discovered and the head of Gods church uncovered, and the spirit of man from the true light distinguished, according to the scriptures of truth, and testimony of saints.</title>
+            <author>West, Robert, b. ca. 1613.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65473</idno>
+            <idno type="STC">Wing W1386</idno>
+            <idno type="STC">ESTC R217302</idno>
+            <idno type="EEBO-CITATION">99828984</idno>
+            <idno type="PROQUEST">99828984</idno>
+            <idno type="VID">33419</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33419)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1860:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Damnable heresie discovered and the head of Gods church uncovered, and the spirit of man from the true light distinguished, according to the scriptures of truth, and testimony of saints.</title>
+                  <author>West, Robert, b. ca. 1613.</author>
+               </titleStmt>
+               <extent>[8], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed 1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Robert West.</note>
+                  <note>Caption title on pg. 1: Here followeth a demonstration of the affirmation of Thomas Hicks, that was a Baptist teacher in the Borough of Devizes, at a meeting in that town, touching the light in man; with the reasons why his affirmations are to opposed and denyed.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hicks, Thomas, 17th cent --  Early works to 1800.</term>
+               <term>Bible --  Criticism, interpretation, etc. --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33419:1" rendition="simple:additions"/>
+            <p>DAMNABLE HERESIE DISCOVERED, AND THE Head of GODS CHURCH UNCOVERED, AND THE Spirit of Man from the True Light DISTINGUISHED, According to the Scriptures of TRUTH, AND Teſtimony of SAINTS.</p>
+            <q>
+               <p>
+                  <hi>Every plant that my Heavenly Father hath not planted, ſhall be rooted up, and every plant that beareth not fruit in Chriſt, ſhall be taken away, ſaith the Amen.</hi>
+               </p> 
+               <bibl>Mat. 15. 13. Joh. 15. 3.</bibl>
+            </q>
+            <p>Printed 1672.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33419:2"/>
+            <pb facs="tcp:33419:2"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>Lthough the Earth is full of the Majesty of the Lord, and his preſence is in every place, <hi>&amp;c.</hi> Yet in the Viſion of the Lord I ſee, as it is noted in the Scriptures of Truth, that the Lord is as a Stranger in the Earth, deſpiſed by man, and abhorred by the Nations; Yea by them that do evil is he hated now, as in the dayes of old, <hi>&amp;c. Jer. 14. 8. Iſa. 53. 3. Iſa. 49. 7. Joh. 3. 20.</hi> and although now to many his light is come, and his glory is now revealed, which is for Salvation to the ends of the Earth; Yet darkneſs covers the Earth, and groſs darkneſs the People: yea them which profeſs much love with their mouths, and draw near with their lips in a profeſſion of God and Christ, without them, <hi>&amp;c.</hi> Yet becauſe of their denying Obedience of Faith, to that which may be
+<pb facs="tcp:33419:3"/> known of God within themſelves, even the life of <hi>Jeſus</hi> in their mortal bodies, that is the true light which lighteth every man that cometh into the world, <hi>Jo. 1. 9.</hi> and the Salvation of all that obey that holy thing, <hi>Luke 1. 34.</hi> I ſay again, for their not Obedience of Faith to that holy thing, darkneſs covers them, <hi>&amp;c.</hi> In the dayes of old, the Holy One was in the midst of the people, <hi>Jer. 14. 9.</hi> as he is now, and the holy Prophets called them to the moſt high, but none at all would exalt him, <hi>Hoſ. 11. 7.</hi> Yea the Lord himſelf testifieth, as Scripture witneſſeth, that he was the Holy One in the midst of them, <hi>Hoſ. 11. 9.</hi> Be<g ref="char:EOLhyphen"/>hold at that time they were Idolaters, ſacrificing to Balaam, and burning Incenſe to graven Images, <hi>Hoſ. 11. 2. &amp;c.</hi> Now this may ſerve to prove, that the Lord is in the midſt of them that are Idolaters. Mark that, <hi>&amp;c.</hi> It hath been, and now is the manner of the Sons of men, when true Prophets call them to that the Lor teſtifieth unto, as Scriptue witneſseth, (to wit) that he is the Holy One in the midſt of them, and that that which may be known of God is manifest in them, <hi>Rom. 1. 19. &amp;c.</hi> to belye him, ſaying, it is not he, <hi>Jer. 5. 12. Iſa. 65. 2. Rom. 10. 21.</hi> But theſe were falſe Prophets that were amongst the people, that belyed the Lord, <hi>2 Pet. 2.</hi> even ſo now there are falſe Teachers amonſt the people, as may appear by this following Treatiſe, that deny and bely the Lord, ſaying, that the Light which
+<pb facs="tcp:33419:3"/> every man is lighted withall, is not Chriſt, but mans ſpirit. Mark, the holy Scripture teſtifieth, that <hi>John</hi> bore teſtimony to the Truth, and his teſtimony was that that was the true Light which lighteth every man that cometh into the world, and that he was in the world before me, ſaith he, <hi>John 1. 15.</hi> And Christ ſaith, as Scripture testi<g ref="char:EOLhyphen"/>fieth, <hi>John 8. 12.</hi> Mark, By world underſtand men in wickedneſs: And <hi>Solomon</hi> teſtifieth, that the poor and deceitful man the Lord lights both their eyes, <hi>&amp;c.</hi> Now this may ſerve to prove, that Chriſt was in the world before <hi>John</hi> the Baptiſt, and that the light which every man was enlightned withal, was Christ the Holy One in the midst of them, <hi>&amp;c.</hi> Now is not this moſt damnable Hereſie to deny the Lord? The Apoſtle <hi>Peter</hi> fore-ſeeing the falſe Teachers that ſhould be amongſt the people, ſaith, they ſhall bring in damnable Hereſie, even denying the Lord that bought them, by reaſon of whom the way of truth ſhall be evil ſpoken of. Which thing is now made manifeſt, (to wit) the folly of them that deny the Light within to be the Lord: That ſo they may proceed no farther, are theſE lines written, <hi>&amp;c.</hi> I knowing from the Lord the deceivableneſs of ſuch Teachers, would perſwade men from hearing thoſe inſtructions, which cauſe them to erre from the words of know<g ref="char:EOLhyphen"/>ledge, <hi>Prov. 19. 27. Jer. 23. 16., &amp;c.</hi> and to hearken to Gods wiſdom, and her teachers, who call to men to turn from darkneſs, (to wit) falſe
+<pb facs="tcp:33419:4"/> Miniſtry, and to turn to the light within, which is the true Miniſtry, and from the power of Satan unto God, even to that of him in them, that Holy thing, that he may turn them from the evil of their wayes and doings, which is a bleſſed State, <hi>&amp;c.</hi> For without Repentance all ſhall periſh, <hi>Luke 13. 3. &amp;c.</hi> For friends, know, that though Chriſt taſted death for every man, for the redemption of the tranſ<g ref="char:EOLhyphen"/>greſſions that were under the Firſt Teſtament, <hi>&amp;c.</hi> Yet no Scripture ſaith, he taſted death for every ſin; becauſe that Repentance and Remiſſion of ſin is to be preached in his name for obedience of Faith unto Repentance, without which there is no Remiſſion of ſins, nor an Inheritance amongst them that are ſanctified through Faith in Chriſt Jeſus, nor knowing the Lord, whom to know is life eternal, <hi>John 17. 3.</hi> But ſuch knowledge is not to be attained unto whilſt men are in ſin, or in ſuch a Faith, that they cannot be freed from ſin on this ſide the Grave, or that Revelation is ceaſed, becauſe without Repentance there is no Remiſſion of ſins, and without Revelation there is no knowing of the Lord. It is written no man knoweth the Father but the Son, and he to whom he will reveal him. Again, there is no promiſe that Chriſt will manifeſt himſelf to them that are in ſin, but on the contrary, <hi>John 14. 21,</hi> &amp;c. Adam for one ſin was drove forth of Paradiſe, and certain it is; Mark it, that no man in ſin ſhall enter into it again (to wit)
+<pb facs="tcp:33419:4"/> Paradiſe, <hi>&amp;c.</hi> The ſeed of <hi>Abraham</hi> after the Fleſh, when Repentance for remiſſion of ſins was preached, then they ſaid, we have <hi>Abraham</hi> to our Father, <hi>Mat. 3. 9: Joh. 8. 39.</hi> denying obedience of Faith to Repentance. And do not many, called by the name of Chriſtians, now ſay, we are Chriſtians from being Baptized with water, which never knew obedience of Faith to Repentance, <hi>&amp;c.</hi> Be<g ref="char:EOLhyphen"/>hold <hi>Abrahams</hi> Son in the Parable is in Hell, yet he was a Rich man, <hi>&amp;c.</hi> and was not that for de<g ref="char:EOLhyphen"/>nying obedience of Faith to Repentance, <hi>Luke 13. 3. &amp;c. Lazarus</hi> that was a Beggar, is in <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> boſom. A word to the wiſe is ſufficient, &amp;c. Finally the Lord hath ſworn, and an Oath was for the confirmation of an end of ſtrife, touching them that do alwayes erre in their hearts and do not know Gods ways, they ſhall never enter into his Reſt, <hi>Pſal. 95. 11. Heb. 4. 5, &amp;c.</hi> Know Gods decrees are not now to making, although now de<g ref="char:EOLhyphen"/>clared, &amp;c. That which is required of all men, and all men bound to it, upon the penalty of periſh<g ref="char:EOLhyphen"/>ing, &amp;c. is Repentance towards God, and Faith towards our Lord Jeſus Chriſt, for the remiſſion of ſins, according to the Order of the God of Order, <hi>Luke 22. 24.</hi> As the Apoſtle <hi>Paul</hi> teſtifieth, when he ſaid, I have kept back nothing which is profitable unto you; teſtifying both to the Jews, and alſo to the Greeks, Repentance towards God, and Faith towards our Lord Jeſus Chriſt, <hi>Act. 20. 21. Selah.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33419:5"/>
+            <pb n="1" facs="tcp:33419:5"/>
+            <head>Here followeth a Demonſtration of the Affirmation of <hi>Thomas Hicks,</hi> that was a Baptiſt Tea<g ref="char:EOLhyphen"/>cher in the Borough of <hi>De<g ref="char:EOLhyphen"/>vizes,</hi> at a Meeting in that Town, touching the Light in man; with the Reaſons why his Affirmations are to be op<g ref="char:EOLhyphen"/>poſed and denyed.</head>
+            <epigraph>
+               <q>
+                  <hi>He that is firſt in his own cauſe, ſeems juſt; but his neighbour cometh and ſearcheth him out. Them that ſin, rebuke before all, that others may fear.</hi>
+               </q>
+               <bibl>Prov. 28. 17. 1 Tim. 5. 20.</bibl>
+            </epigraph>
+            <p>
+               <hi>THomas Hicks</hi> then and there affirmed, that the Light within was mans Spi<g ref="char:EOLhyphen"/>rit, which did convince them of Sin, and that God breathed it into <hi>Adam,</hi> and that it was in every man: And that they which did worſhip the Light within, were Idolaters and breakers of Gods Commandments; for ſaid he, the Light within is not Chriſts, but mans Spirit; for whilſt Chriſt was figured out
+<pb n="2" facs="tcp:33419:6"/> in Types, he was not actually in being: and ſaid, that the word by which God made the world, was not the Chriſt. This Affirmation I had given me in writing by his approbation, by another Baptiſt Teacher one <hi>J. W.</hi> at the ſame time, which afterwards in a ſhort time I put in Print, in a Book called <hi>[The Cauſe of Cauſes declared]</hi> and never by him denyed, <hi>&amp;c.</hi> His Affirmations conſiſting of many par<g ref="char:EOLhyphen"/>ticulars at that time of their Meeting, I only denyed this particular, (to wit) Whilſt Chriſt was figured out in Types, he was not actually in being: And then I brought theſe ſayings, noted in holy Scriptures, as a Reaſon why I did deny that particular: Firſt, Chriſt ſaying, (to wit) <hi>Before Abraham was, I am.</hi> Secondly, <hi>John</hi> the Baptiſt witneſſed, (to wit) <hi>he was in the world before me.</hi> Thirdly, <hi>Stephen</hi>'s teſtimony, <hi>This is he that was in the Church in the Wilderneſs.</hi> Fourthly, the Apoſtle <hi>Paul</hi> ſaying, (to wit) <hi>They did all eat and drink of the Spiritual Rock that followed them, and that Rock was Chriſt,</hi> &amp;c. Theſe Scriptures I brought, to prove that Chriſt was in being, when he was figured out in Types; <hi>Joh.</hi> 8. 58. <hi>Acts</hi> 7. 38. 1 <hi>Cor.</hi> 10. 4. And then I concluded, ſaying, That their ſay<g ref="char:EOLhyphen"/>ings were true, but his was falſe. Then he ſaid, that he would prove it: uſing many words of what he had taken notice of in <hi>James Naylors</hi> Book, [called <hi>Love to the Loſt]</hi> by which he
+<pb n="3" facs="tcp:33419:6"/> darkned the people by words he uttered with<g ref="char:EOLhyphen"/>out knowledge for a long time; and then ſaid, that he had proved his Affirmation, <hi>&amp;c.</hi> I then denyed it, and ſaid, I ſhould oppoſe it in Print; but was hindred hitherto by reaſon of my being perſecuted and impriſoned. But now according to my promiſe I have committed it unto the Preſs, for the Truths ſake, and the peoples information. I have divided his Affirmation into eight particulars, and ſhall through Gods aſſiſtance touch upon each briefly. And firſt, to the firſt Affirmation, (to wit) <hi>the Light within is mans Spirit,</hi> this I do deny for theſe reaſons.</p>
+            <p>Firſt, becauſe the holy Scripture ſaith, the Spirit of man is the Candle of the Lord, <hi>Prov.</hi> 20. 27. Secondly, no holy Scripture ſaith, that the Light within is mans Spirit. Thirdly, it is written, that the wicked rebel againſt the Light, <hi>Job</hi> 24. 13. Mark, over mans Spirit man hath power, except he be like a City without Walls, or broken down, <hi>Prov.</hi> 25. 28. If ſo, then man cannot rebel againſt his own Spirit. It is writ<g ref="char:EOLhyphen"/>ten, <hi>Take heed to your ſpirit, and let none deal treacherouſly againſt the wife of his youth,</hi> Mal. 2. 15. Mark, it cannot be properly ſaid to a man that hath a wife, if he be unnatural to her, that he rebels againſt his wife, becauſe ſhe is his Inferiour. Even ſo to a man that deals treache<g ref="char:EOLhyphen"/>rouſly with his own Spirit: It cannot be pro<g ref="char:EOLhyphen"/>perly
+<pb n="4" facs="tcp:33419:7"/> ſaid, that he doth rebel againſt his Spirit. Therefore the Light that the wicked do rebel againſt, is not mans Spirit, but a holy thing that is above man in its excellency, or mans Spirit, becauſe rebellion is a riſing up againſt a Supe<g ref="char:EOLhyphen"/>riour in Authority, <hi>&amp;c.</hi> Again, mans Spirit is the Candle of the Lord: Mark, a Candle ſingly conſidered is darkneſs, and but a receptible ſub<g ref="char:EOLhyphen"/>ject to receive light, which when it hath recei<g ref="char:EOLhyphen"/>ved it, giveth of what it hath received, (to wit) Light. Again, the light which the Candle re<g ref="char:EOLhyphen"/>ceiveth may be put out, and yet the Candle re<g ref="char:EOLhyphen"/>main as before it was lighted. Even ſo the Spirit of the Lord by man may be put out or quenched, and yet mans Spirit remain in his body, and the Light too, as a Candle whoſe light is put out, <hi>&amp;c.</hi> How often is the Candle of the wicked put out, <hi>Job</hi> 21. 17. By what is written it may appear, according to holy Scrip<g ref="char:EOLhyphen"/>tures, for of them we are to think above men, 1 <hi>Cor.</hi> 4. 6, <hi>&amp;c.</hi> That the Light within is not made Spirit, but it is the Lord, as ſaith the Pro<g ref="char:EOLhyphen"/>phet <hi>David, the Lord is my light and my ſalvation, Pſal.</hi> 27. 1. That was the true light which light<g ref="char:EOLhyphen"/>eth every man that cometh into the world, of which <hi>John</hi> bore witneſs, that was before him, <hi>John.</hi> 1. 10, 15. as <hi>David</hi> witneſſed before, <hi>&amp;c.</hi> By what is written it may appear, that <hi>Thomas Hicks</hi> hath ſpoken evil of the holy thing, <hi>Luk.</hi> 1. 35. and that he knoweth him not by his firſt par<g ref="char:EOLhyphen"/>ticular, <hi>&amp;c.</hi>
+            </p>
+            <pb n="5" facs="tcp:33419:7"/>
+            <p>I ſhall now touch upon his Second Parti<g ref="char:EOLhyphen"/>cular (to wit) that Mens ſpirit did convince them of ſin. This I do deny: Firſt, becauſe no holy Scripture ſays ſo: Secondly, becauſe the holy Scripture ſaith, that the Spirit (ſpeak<g ref="char:EOLhyphen"/>ing of the Holy-ghoſt) ſhall convince the world of ſin, that is, meaning wickedneſs. Thirdly, That the Law is Spiritual, by the Law cometh the knowledge of ſin, and that the Law of God is light; And that all things when they are rebuked are manifeſted by the light, <hi>Eph.</hi> 5. 13. <hi>Prov.</hi> 6. 23. <hi>Pſal.</hi> 19. 7. And that the Law of God is perfect, converting the Soul, making wiſe the ſimple, &amp;c. Mark that which convinceth of ſin and converteth the ſoul, &amp;c. Muſt be of a Divine Nature, for there is nothing beneath, Gods Nature can convert a ſoul and make wiſe the ſimple, But this the in<g ref="char:EOLhyphen"/>ſpiration of the Almighty doth; <hi>Job.</hi> 32. 8, <hi>&amp;c.</hi> It is that which giveth underſtanding for that is perfect, and it is in man as a Law to its work, convincing man and converting the ſouls of them that believe, <hi>&amp;c.</hi> By what is writ<g ref="char:EOLhyphen"/>ten it may appear in his ſecond particular, he knoweth not the ſecond <hi>Adam</hi> who is a quick<g ref="char:EOLhyphen"/>ning Spirit, 1 <hi>Cor.</hi> 15. 45. From the ſpirit of man, <hi>&amp;c.</hi> Much more might be ſaid, but I will paſs to his Third Particular (to wit) that God breathed it (to wit) mans ſpirit into <hi>Adam.</hi> This I do deny for this reaſon, no where the
+<pb n="6" facs="tcp:33419:8"/> Scripture ſaith ſo. Secondly, The Scripture teſtifieth that the Spirit of man was by God given to man, and that man hath power over it, (as is before excepted) <hi>Eceleſ.</hi> 12. 7. <hi>Prov.</hi> 25. 28. Therefore mans Spirit cannot be that Spirit which God breathed into <hi>Adam</hi> by which man became a living ſoul, for theſe Reaſons mans Spirit is mutable and may be defiled and impriſoned, <hi>&amp;c.</hi> Captivated by mans ſubmitting to the Devil, and treacherous dealing with it, <hi>Mal.</hi> 2. 14, <hi>&amp;c.</hi> But man hath not power over the breath of God that God breathed into <hi>Adam,</hi> by which man became a living Soul, neither can the wicked one touch that (to wit) the Breath of God: By it were the Heavens made and all the Hoſt of them, <hi>Pſal.</hi> 37. 6. The breath of our No<g ref="char:EOLhyphen"/>ſtrills the anointed Lord, <hi>Lam.</hi> 4. 20. by which man became a Living Soul, that is the true light which lighteth every man which com<g ref="char:EOLhyphen"/>eth into the World: <hi>Adam</hi> was a man, and his Spirit the candle, and he was lighted as it is implyed by holy Scriptures, for every man is lighted, <hi>&amp;c.</hi> By what is written it may appear that mans Spirit was not breath<g ref="char:EOLhyphen"/>ed into <hi>Adam,</hi> but given of God to man, and that the breath that God breathed into <hi>Adam</hi> was another Spirit, <hi>&amp;c.</hi> By what is written it may appear, that <hi>Thomas Hicks</hi> knoweth not that Spirit by which man became a li<g ref="char:EOLhyphen"/>ving
+<pb n="7" facs="tcp:33419:8"/> Soul or the ſecond <hi>Adam</hi> that's made a quickening Spirit, 1 <hi>Cor.</hi> 15. 45, <hi>&amp;c.</hi> Fourth<g ref="char:EOLhyphen"/>ly, He ſaith it was in every man, in every man is mans ſpirit, or elſe mans body would be dead: But mans ſpirit is not the light with<g ref="char:EOLhyphen"/>in, as hath before been proved, and yet the light ſhineth in man, for it ſhineth in dark<g ref="char:EOLhyphen"/>neſs and is through all, and the manifeſtation of the Spirit is given to every man to profit withall, 1 <hi>Cor.</hi> 12. 7. If it be hid it is hid in them that are loſt, 2 <hi>Cor.</hi> 4. 3. Yea, in the midſt of Idolators is the holy One, as be<g ref="char:EOLhyphen"/>fore hath been proved, <hi>Hoſ.</hi> 11. 8, <hi>&amp;c.</hi> Fifth<g ref="char:EOLhyphen"/>ly, <hi>Thomas Hicks</hi> ſaith, That they that did worſhip the light within, were Idolaters and breakers of Gods Commandments. This I do deny for theſe Reaſons, No holy Scripture ſaith ſo. Secondly, Thoſe <hi>Gentiles</hi> that had not the Law in a Book, without them, did by nature the things contained in the Law, and then they knew God, whom no man can know, except he keepeth his Command<g ref="char:EOLhyphen"/>ments, ſaith <hi>John, He that ſaith he knoweth God and keepeth not his Commandments is a Lyar,</hi> 1 <hi>Joh.</hi> 2. 4. Now <hi>Paul</hi> ſaith, the <hi>Gentiles</hi> knew God, <hi>Rom.</hi> 1. 21. becauſe, ſaith he, That which may be known of God is ma<g ref="char:EOLhyphen"/>nifeſt in them, for God hath ſhewn it to them, <hi>Rom.</hi> 1. 19, <hi>&amp;c.</hi> If ſo, then they did by na<g ref="char:EOLhyphen"/>ture the things contained in the Law, and at
+<pb n="8" facs="tcp:33419:9"/> that time they were Diſciples of the Lord: For the promiſe of the Manifeſtation of the Lord is onely to the Diſciples, not to the world, <hi>Jo.</hi> 14. 21, <hi>&amp;c.</hi> To this <hi>Thomas Hicks</hi> muſt confeſs, for the Scripture cannot be bro<g ref="char:EOLhyphen"/>ken, <hi>&amp;c.</hi> Again, It is written that when they knew God they glorified him, not as God, neither were they thankful, neither did they like to retain God in their knowledg, but changed the truth for a lye, (to wit) for falſe gods and falſe worſhips, <hi>&amp;c.</hi> And then they were Idolaters: But when they did things by nature contained in the Law, then they knew God and were no Idolaters, <hi>&amp;c.</hi> By what is written it may appear, that they which wor<g ref="char:EOLhyphen"/>ſhip the light within, when they worſhipped the light or divine nature were not Idolaters, <hi>&amp;c.</hi> Sixthly, <hi>Thomas Hicks</hi> ſaith, that the light within is not Chriſt, but mans ſpirit. That the light within is not mans ſpirit before is proved. That Chriſt is the light, and that the light is come into the World Chriſt teſtifieth himſelf, <hi>John</hi> 3. 19. and many are witneſſes that do be<g ref="char:EOLhyphen"/>lieve, for he that doth believe hath the Witneſs in himſelf, 1 <hi>John</hi> 5. 10. That the Son of God is come and hath given us, yea thouſands of us underſtanding to know him, <hi>&amp;c.</hi> And this is life eternal to know the Only true God and Jeſus Chriſt whom he hath ſent, <hi>John</hi> 17. 3. Glory be to God for ever, and for evermore,
+<pb n="9" facs="tcp:33419:9"/> 
+               <hi>Amen.</hi> Seventhly, <hi>Thomas Hicks</hi> ſaith, That whilſt Chriſt was figured out in Types, he was not actually in being. This I do deny, for this Reaſon. No holy Scripture ſaith ſo. Secondly, Chriſt ſaith, before <hi>Abraham</hi> was I am, and <hi>John</hi> ſaith, he was in the world before me, as before is proved. And <hi>David</hi> ſaith, Why do the Heathen rage, and the peo<g ref="char:EOLhyphen"/>ple imagine a vain thing, the Kings of the Earth ſet themſelves, and the Rulers take Councel together againſt the Lord, and a<g ref="char:EOLhyphen"/>gainſt his anointed, <hi>Pſal.</hi> 2. 12. Again, he ſaith, the Lord ſaid unto my Lord, ſit thou at my right hand untill I make thine ene<g ref="char:EOLhyphen"/>mies my footſtool. Who is this that <hi>David</hi> in ſpirit calls Lord, if not Chriſt? Again, <hi>Peter</hi> ſpeaking of Chriſt, ſaith, he went and preached unto the ſpirits in Priſon, which ſometime were diſobedient in the dayes of <hi>Noah.</hi> Again, it is written, he is the head of the Church, and that all things are made by him: If ſo, by what is written it may appear, that Chriſt was before the World was, and was actual whilſt he was figured out in Types, <hi>&amp;c.</hi> Oh! Is not this man a great Lyar. Eighthly, <hi>Thomas Hicks</hi> ſaith, That the word by which God made the World, was not the Chriſt. This I do deny, for theſe Reaſons; No holy Scri<g ref="char:EOLhyphen"/>pture ſaith ſo. Secondly, Becauſe God made the Worlds by his Son, <hi>Heb.</hi> 1. 2. Again, It
+<pb n="10" facs="tcp:33419:10"/> is written, by the Word of the Lord were the Heavens made, <hi>Pſal.</hi> 33. 6. Again, his name is called the Word of God. Again, In the be<g ref="char:EOLhyphen"/>ginning was the Word, and the Word was with God, and the Word was God; all things were made by him, and without him was not any thing made: In him was life, and the life was the light of men, <hi>&amp;c.</hi> Mark then, the light of men was from the beginning the Word, by which God made the Worlds, <hi>&amp;c.</hi> It is writ<g ref="char:EOLhyphen"/>ten, the Father, the Word, and the Holy-ghoſt, are One. Oh! The Ignorance of this man: he denyeth the light within to be Chriſt. A<g ref="char:EOLhyphen"/>gain, he denyeth Chriſt to be actually in being whilſt he was figured out in Types. Again, doth he not deny the preſent being of Chriſt in the World, in denying the light within to be the Chriſt? Again, doth he not deny the e<g ref="char:EOLhyphen"/>verlaſting being of Chriſt, in ſaying the Word by which God made the Worlds is not the Chriſt? Again, doth not he deny him that all the Prophets give their Teſtimony to? that whoſoever believeth on him ſhall not periſh, but have everlaſting life, <hi>&amp;c.</hi> Thou wandring Star Repent, or elſe for thee the midſt of dark<g ref="char:EOLhyphen"/>neſs is reſerved for ever. Remember me, a Friend to thy ſoul hath warned thee, whom thou knoweſt to have been a great ſufferer for bearing my Teſtimony againſt deceit, <hi>Robert Weſt, &amp;c.</hi> This following Queſtion I do pro<g ref="char:EOLhyphen"/>poſe,
+<pb n="11" facs="tcp:33419:10"/> with the conſequence that will follow, to the end that the Nations may be no longer de<g ref="char:EOLhyphen"/>ceived by the Antichriſtian Teachers.</p>
+            <p>
+               <hi>Queſt.</hi> If the life of Jeſus Chriſt that light<g ref="char:EOLhyphen"/>eth every man that cometh into the World, was not the head of Gods Church and the ſal<g ref="char:EOLhyphen"/>vation of it, but the fleſh and blood that he per<g ref="char:EOLhyphen"/>took of; then whether from the beginning un<g ref="char:EOLhyphen"/>till the time that he took on him that fleſh or vail, <hi>Heb.</hi> 10. 20. the Church of God had any head or ſalvation? Again, if that fleſh or vail of Chriſt was the head of Gods Church and ſalvation of it, then when that was put to death, whether the Church had either head or ſalvati<g ref="char:EOLhyphen"/>on, <hi>&amp;c.</hi> if the life of Jeſus Chriſt was not the head and ſalvation of it? For Chriſt was put to death in the Fleſh, but quickned in the Spirit, and raiſed again, and is aſcended up into Hea<g ref="char:EOLhyphen"/>ven, where he was before, even the ſecond <hi>A<g ref="char:EOLhyphen"/>dam</hi> that is made a quickning Spirit, that he might fill all things, and now is he as he was before, the ſearcher of all Hearts, 1 <hi>Chron.</hi> 28. 9. even Jeſus that was dead and is alive, and behold he liveth for evermore, <hi>Revel.</hi> 2. 8. To him give all the Prophets Witneſſe, That whoſoever believeth in him ſhould not periſh, but have everlaſting life. This is the Root of <hi>Jeſſe,</hi> and Off-ſpring of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> the bright and morning ſtar, whoſe go<g ref="char:EOLhyphen"/>ings
+<pb n="12" facs="tcp:33419:11"/> have been from everlaſting, which now is the Enſign of the <hi>Gentiles</hi> that is lifted up. To him ſhall be the Gathering of the People, and his reſt is glorious, as is written, <hi>Iſa.</hi> 11. 10. To him be Glory for ever, and for evermore, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="poem">
+            <pb n="13" facs="tcp:33419:11"/>
+            <head>Councel for all thoſe whoſe ſimpli<g ref="char:EOLhyphen"/>city is betrayed by ſubtilty.</head>
+            <lg>
+               <l>
+                  <hi>REturn, O friends, unto your reſt,</hi>
+               </l>
+               <l>
+                  <hi>And ceaſe from errors; that is best.</hi>
+               </l>
+               <l>
+                  <hi>No peace without the tree of life,—</hi>
+               </l>
+               <l>
+                  <hi>In falſe conceivings ſtands the ſtrife.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Be not of them who ſtrike at flame,</hi>
+               </l>
+               <l>
+                  <hi>For to have their deſire;</hi>
+               </l>
+               <l>
+                  <hi>Such often like the flyes conſume,</hi>
+               </l>
+               <l>
+                  <hi>By ſtriking at the fire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>God doth his Angels Spirits make,</hi>
+               </l>
+               <l>
+                  <hi>They Miniſter to man;</hi>
+               </l>
+               <l>
+                  <hi>His Miniſters are flames of fire;—</hi>
+               </l>
+               <l>
+                  <hi>See, ſtrike you not at them:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Leſt as the Flyes that ſtrike at flame,</hi>
+               </l>
+               <l>
+                  <hi>For to have their deſire,</hi>
+               </l>
+               <l>
+                  <hi>You like the Flyes conſume your ſelves,</hi>
+               </l>
+               <l>
+                  <hi>By ſtriking at the fire.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="postscript">
+            <pb n="14" facs="tcp:33419:12"/>
+            <head>POSTSCRIPT.</head>
+            <head>A word of Advice to all Teachers, that ſo they may take heed of what Spirit they follow; and alſo to Hearers, that they may take heed to what words they hear.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>THere are three Spirits in man, and they are three moveable Powers or Subſtances ſingly conſidered, (to wit) the Spirit of God, that is the Light; and the Spirit of Man, that is the Candle; and the Spirit of the Devil, and that tempts to Sin, <hi>&amp;c.</hi> It is a high knowledge to know the motion of the Lords Spirit, from the motion of Mans Spirit, and the Devils mo<g ref="char:EOLhyphen"/>tion from them both. Mark, Man may ſpeak, as <hi>Paul</hi> did, when the Lord ſpeaks not, nor Sa<g ref="char:EOLhyphen"/>tan moves Man to ſpeak, 1 <hi>Cor.</hi> 7. 12. Now if the Teacher believes there are but two Spirits in Man, then he may follow his own Spirit, as the fooliſh Prophets did, <hi>Ezek.</hi> 13. 3. ſaying, <hi>Hear the word of the Lord,</hi> when he hath ſeen
+<pb n="15" facs="tcp:33419:12"/> nothing: For know, mans Spirit openeth not the myſteries of the Lord, nor the holy Scrip<g ref="char:EOLhyphen"/>tures, but the Spirit of the Lord doth, <hi>&amp;c.</hi> Now when men ſhall Teach, that have not received the Spirit of the Lord, as that no man can re<g ref="char:EOLhyphen"/>ceive that is in ſin and wickedneſs, becauſe the Holy Spirit will not be touched by the wicked; It is written, <hi>the wicked toucheth him not, 1 John</hi> 5. 18. Again, the natural man receiveth not the things of the Spirit of God; and for his not receiving the things of the Spirit of God, he cannot know them: the reaſon is, be<g ref="char:EOLhyphen"/>cauſe he denyeth Obedience of Faith to that which may be known of God, that is within himſelf, by which all that do yield Obedience of Faith to, do come to Repentance, as it is written, <hi>Turn at my reproof, and I will pour out my Spirit upon you, and make known my mind unto you,</hi> Prov. 1. 23, <hi>&amp;c.</hi> I ſay again, when men ſhall teach, before they have yielded Obe<g ref="char:EOLhyphen"/>dience of Faith to that which may be known of God within themſelves, by which true Re<g ref="char:EOLhyphen"/>pentance is wrought, then they do utter words without knowledge, and then the Spirit of the Lord, which is the Teſtimony of Jeſus, and Spirit of Propheſie, <hi>&amp;c.</hi> will ſtir in the Lords Servants, and witneſs againſt them, and then the Servant of the Lord for ſo doing they will hate, and account him a man of a contentious Spirit: Of this I am a witneſs. Therefore take
+<pb n="16" facs="tcp:33419:13"/> heed what Spirit you follow, and what Do<g ref="char:EOLhyphen"/>ctrine you hear: For every plant that my Heavenly Father hath not planted, ſhall be rooted up, and all Cedar works ſhall be un<g ref="char:EOLhyphen"/>covered, and the Lord himſelf ſhall alone be exalted. For the Miniſtry of the fulneſs of the diſpenſation of Chriſt is come, and the light of the Moon ſhall be as the light of the Sun, and the light of the Sun as the ſhining of ſeven Dayes: Yea the Lord will now be the light of his people, and the dayes of their mourning ſhall be ended, <hi>Iſa.</hi> 60. 20. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="17" facs="tcp:33419:13"/>
+            <p>WE who in ſcorn are called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> oft times are denyed to be reaſoned with, except we will own the holy Scriptures to be the ground of faith and rule of life; for all ſuch are theſe lines written to conſider of. Do you own the Holy Scriptures to the ends whereunto they were writen? and to the ends where<g ref="char:EOLhyphen"/>unto the Lord appointed them to ſerve? We do, <hi>&amp;c.</hi> If you do, let them be Witneſſes between us, who are in ſcorn called <hi>Quakers,</hi> and you, touching the ground of Faith and rule of Life, <hi>&amp;c.</hi> The holy Scriptures teſtifie, that Jeſus is the Author and Finiſher of the Faith of <hi>Abel, Enoch, Noah, Abraham, Iſaac, Joſeph</hi> and <hi>Moſes,</hi> with ſo great a Cloud of Witneſſes, as the Author to the <hi>He<g ref="char:EOLhyphen"/>brews</hi> Witneſſeth, <hi>Heb.</hi> 11. 12 2. And as other Scriptures teſtifie to him, give all the Prophets Witneſſe, <hi>that whoſoever believeth in him ſhould not periſh, but have everlasting life.</hi> Now is there any holy Scripture ſaith, that Scripture is the
+<pb n="18" facs="tcp:33419:14"/> ground of Faith; if ſo, bring that Scri<g ref="char:EOLhyphen"/>pture, ye Baptized people, or be ſilent for ever; for it is written, We are not to think of men above that which is writ<g ref="char:EOLhyphen"/>ten, and the Spirits of the Prophets, are Subject to the Prophets. What Scri<g ref="char:EOLhyphen"/>pture was the rule of the life of <hi>Abel, Enoch, Noah,</hi> and <hi>Abraham?</hi> I know not of any Scripture that they had; It is imployed by holy Scripture, that they were lighted by the true light; for every man was lighted that came into the World, and that <hi>Abraham</hi> ſaw Chriſts Day, and that the light from on high did viſit men to guide their feet in the way of peace: Was not that the rule of life, and guide of their youth, <hi>&amp;c.</hi> The Jews ſaid to Chriſt, that they were <hi>Moſes</hi> his Diſciples, and Chriſt ſaid, there was one that did accuſe them, e<g ref="char:EOLhyphen"/>ven <hi>Moſes</hi> in whom you truſt: So ſay I to you, that do ſay the Scripture is your gro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd of Faith, and rule of Life. The holy Scripture teſtifieth againſt you:
+<pb n="19" facs="tcp:33419:14" rendition="simple:additions"/> You ſay to a ſingle perſon You <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and call the Months and Days of the Week not as the holy men of old did: What rule have you in Scripture to ſay to a ſingle perſon, You: and the Months of the Year and Days of the Week as you do? Do you not follow the Cuſtom of the Heathen, of whom the Lord hath ſaid, <hi>Learn not the way of the Heathen.</hi> It's written, <hi>When the Lord ſhall aſ<g ref="char:EOLhyphen"/>ſemble the Kingdoms, to pour upon them his Indignation, then he will return to the People a pure Language, that they may call upon the Name of the Lord, to ſerve him with one conſent,</hi> ſaid, <hi>Zeph.</hi> Chap. 3. verſe 9.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
